@@ -1,0 +1,4 @@
+﻿  GPA Calculator.cpp
+E:\CPP projects\GPA Calculator\GPA Calculator\GPA Calculator\GPA Calculator.cpp(8,11): error C2371: 'score': redefinition; different basic types
+E:\CPP projects\GPA Calculator\GPA Calculator\GPA Calculator\GPA Calculator.cpp(7): message : see declaration of 'score'
+E:\CPP projects\GPA Calculator\GPA Calculator\GPA Calculator\GPA Calculator.cpp(16,18): error C2088: '>>': illegal for class
