@@ -164,7 +164,7 @@ std::string Calculation(float score) {
 ```
 ## Flowchart ref
 ![alt FlowchartRef](https://online.visual-paradigm.com/repository/images/d79fd1f5-35f1-4703-be15-b4940695e7f1/flowchart-design/simple-grading-system.png)
-#### Note : It look difference between code and flowchart little bit but for me it good enough.
+#### Note : It look difference between code and flowchart little bit 😜.
 ## Source
 https://online.visual-paradigm.com/diagrams/templates/flowchart/simple-grading-system/
 
