@@ -10,12 +10,12 @@ First i include <iostream> and <string> in this project.
 #include <iostream>
 #include <string>
 ```
-Next declear functions this 2 function is a Fucntion Overloading for 2 options value integer and value float and return with string value.
+Next declare  functions this 2 function is a Fucntion Overloading for 2 options value integer and value float and return with string value.
 ```cpp 
 std::string Calculation(int score);
 std::string Calculation(float score);
 ```
-Next declear 3 variables scoreInt , scoreFloat , selectMode inside main function.
+Next declare  3 variables scoreInt , scoreFloat , selectMode inside main function.
 ```cpp 
 int main()
 {
@@ -29,7 +29,7 @@ Next print the title and tell user for select mode to input number also get numb
     std::cout << "Select mode for input score number 1).integer or 2).float?: ";
     std::cin >> selectMode;
 ```
-Next check number from "selectMode" and get number with variables i declear before then pass in parameter for return GPA. The return 0 is for main function.
+Next check number from "selectMode" and get number with variables i declare  before then pass in parameter for return GPA. The return 0 is for main function.
 ```cpp 
 if (selectMode == 1) {
         std::cout << "Enter score in Integer: ";
